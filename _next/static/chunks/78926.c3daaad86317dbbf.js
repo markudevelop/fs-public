@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[78926],{78926:function(e,a){Object.defineProperty(a,"__esModule",{value:!0}),a.default=function(e){return function(a){var l=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},t=a.match(e.matchPattern);if(!t)return null;var u=t[0],r=a.match(e.parsePattern);if(!r)return null;var n=e.valueCallback?e.valueCallback(r[0]):r[0];n=l.valueCallback?l.valueCallback(n):n;var c=a.slice(u.length);return{value:n,rest:c}}},e.exports=a.default}}]);
+//# sourceMappingURL=78926.c3daaad86317dbbf.js.map

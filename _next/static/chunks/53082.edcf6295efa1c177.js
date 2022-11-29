@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[53082],{53082:function(e,t){Object.defineProperty(t,"__esModule",{value:!0}),t.default=function(e,t,u,o){return r[e]};var r={lastWeek:"'\u4e0a\u500b'eeee p",yesterday:"'\u6628\u5929' p",today:"'\u4eca\u5929' p",tomorrow:"'\u660e\u5929' p",nextWeek:"'\u4e0b\u500b'eeee p",other:"P"};e.exports=t.default}}]);
+//# sourceMappingURL=53082.edcf6295efa1c177.js.map

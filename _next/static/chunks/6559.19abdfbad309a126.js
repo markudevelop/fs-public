@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6559],{6559:function(e,l,t){var u=t(64836);Object.defineProperty(l,"__esModule",{value:!0}),l.default=void 0;var a=u(t(64938)),v=t(85893),d=(0,a.default)((0,v.jsx)("path",{d:"M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5l8 2.5z"}),"Flight");l.default=d}}]);
+//# sourceMappingURL=6559.19abdfbad309a126.js.map

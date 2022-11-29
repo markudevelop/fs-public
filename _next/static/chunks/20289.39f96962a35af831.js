@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[20289],{20289:function(t,e){Object.defineProperty(e,"__esModule",{value:!0}),e.default=function(t){return function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{},u=e.width?String(e.width):t.defaultWidth,n=t.formats[u]||t.formats[t.defaultWidth];return n}},t.exports=e.default}}]);
+//# sourceMappingURL=20289.39f96962a35af831.js.map
